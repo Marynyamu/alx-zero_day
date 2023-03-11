@@ -1,2 +1,1 @@
-another readme fot 0x03-git
-updated
+This file is mandatory in projects
